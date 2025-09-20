@@ -1,5 +1,5 @@
-3-ContrastiveModels/data/cifar-10-batches-py/
-3-ContrastiveModels/data/dct2_images/
-3-ContrastiveModels/data/pacs_data
-3-ContrastiveModels/data/pacs_label
-3-ContrastiveModels/data/cifar-10-python.tar.gz
+3-ContrastiveModels/data/*
+!3-ContrastiveModels/data/
+!3-ContrastiveModels/data/20_pacs_custom/
+!3-ContrastiveModels/data/representation_mix/
+
