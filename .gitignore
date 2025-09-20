@@ -1,1 +1,4 @@
-data/
+3-ContrastiveModels/data/cifar-10-batches-py/
+3-ContrastiveModels/data/dct2_images/
+3-ContrastiveModels/data/pacs_data
+3-ContrastiveModels/data/pacs_label
