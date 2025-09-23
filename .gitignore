@@ -3,3 +3,6 @@
 3-ContrastiveModels/data/pacs_data/
 3-ContrastiveModels/data/pacs_label/
 3-ContrastiveModels/data/dct2_images/
+3-ContrastiveModels/data/representation_set.pt
+3-ContrastiveModels/data/cue_conflict_dataset/
+3-ContrastiveModels/data/stl10_binary.tar.gz
